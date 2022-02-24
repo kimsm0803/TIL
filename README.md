@@ -1,6 +1,7 @@
 # Today I Learned
-- 하루 동안 공부한 내용을 기록으로 남긴다.
-- If you can't make it good, at least make it look good.
+> 하루 동안 공부한 내용을 기록으로 남긴다.
+>
+> If you can't make it good, at least make it look good.
 
 
 
@@ -13,7 +14,7 @@
 
 ## 특강
 
-- [특강_MarkDown.md](https://github.com/kimsm0803/TIL/blob/master/특강/특강_MarkDown.md)
-- [특강_Git기초.md](https://github.com/kimsm0803/TIL/blob/master/특강/특강_Git기초.md)
-- [특강_Github.md](https://github.com/kimsm0803/TIL/blob/master/특강/특강_Github.md)
+- [특강_MarkDown](https://github.com/kimsm0803/TIL/blob/master/특강/특강_MarkDown.md)
+- [특강_Git기초](https://github.com/kimsm0803/TIL/blob/master/특강/특강_Git기초.md)
+- [특강_Github](https://github.com/kimsm0803/TIL/blob/master/특강/특강_Github.md)
 
