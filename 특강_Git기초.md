@@ -30,7 +30,7 @@
 
 ### 	1. 로컬 저장소
 
-![image-20220223205524210](Git허브 특강.assets/image-20220223205524210.png)
+![image-20220223205524210](https://user-images.githubusercontent.com/100325988/155461335-56b2285a-53ca-474a-8f5f-01550024f20e.png)
 
 - <span style="color:red">`Working Directory (= Working Tree)`</span> : 사용자의 일반적인 작업이 일어나는 곳
 
@@ -92,7 +92,7 @@ nothing to commit (create/copy files and use "git add" to track)
 
      c. <span style="color:red">`Staged`</span> : Staging Area에 올라간 상태
 
-![image-20220223211921622](Git허브 특강.assets/image-20220223211921622.png)
+![image-20220223211921622](https://user-images.githubusercontent.com/100325988/155461400-52cfac95-2054-48a7-92e9-731e9cebf48d.png)
 
 ---
 
@@ -228,7 +228,7 @@ oneline 옵션은 말 그래도 부가적인 기능이므로, 생략해도 git l
 
 ### 7. 한 눈에 보는 Git 명령어
 
-![image-20220223213635858](Git허브 특강.assets/image-20220223213635858.png)
+![image-20220223213635858](https://user-images.githubusercontent.com/100325988/155461422-5bdd4fe7-d3d3-4dc5-96c0-ec3ef9c9c962.png)
 
 
 
