@@ -7,7 +7,7 @@
 
 ## Python
 
-- [파이썬_01.파이썬의 탄생](https://github.com/kimsm0803/TIL/blob/master/파이썬/파이썬_01.파이썬의 탄생.ipynb)
+- [파이썬_01.파이썬의 탄생](https://github.com/kimsm0803/TIL/blob/master/%ED%8C%8C%EC%9D%B4%EC%8D%AC/%ED%8C%8C%EC%9D%B4%EC%8D%AC_01.%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%98%20%ED%83%84%EC%83%9D.ipynb)
 - [파이썬_02.자료형(숫자형,문자열)](https://github.com/kimsm0803/TIL/blob/master/%ED%8C%8C%EC%9D%B4%EC%8D%AC/%ED%8C%8C%EC%9D%B4%EC%8D%AC_02.%EC%9E%90%EB%A3%8C%ED%98%95(%EC%88%AB%EC%9E%90%ED%98%95%2C%EB%AC%B8%EC%9E%90%EC%97%B4).md)
 
 
