@@ -18,9 +18,9 @@
 
 ## 특강
 
-- [특강 01 MarkDown](https://github.com/kimsm0803/TIL/blob/master/특강/특강_MarkDown.md)
-- [특강_02 Git기초](https://github.com/kimsm0803/TIL/blob/master/특강/특강_Git기초.md)
-- [특강_03 Github](https://github.com/kimsm0803/TIL/blob/master/특강/특강_Github.md)
+- [특강 01 MarkDown](https://github.com/kimsm0803/TIL/blob/master/%ED%8A%B9%EA%B0%95/%ED%8A%B9%EA%B0%95_01.MarkDown.md)
+- [특강_02 Git기초](https://github.com/kimsm0803/TIL/blob/master/%ED%8A%B9%EA%B0%95/%ED%8A%B9%EA%B0%95_02.Git%EA%B8%B0%EC%B4%88.md)
+- [특강_03 Github](https://github.com/kimsm0803/TIL/blob/master/%ED%8A%B9%EA%B0%95/%ED%8A%B9%EA%B0%95_03.Github.md)
 
 - [특강_04.gitignore.md](https://github.com/kimsm0803/TIL/blob/master/특강/특강_04.gitignore.md)
 
