@@ -28,11 +28,11 @@
 
 - [특강_05 clone,pull](https://github.com/kimsm0803/TIL/blob/e53429892e8a2dd08acf71abd821aad28fc7d602/Github%20%ED%8A%B9%EA%B0%95/%ED%8A%B9%EA%B0%95_05.clone,pull.md)
 
-- [특강_06 Branch](Github 특강/특강_06.Branch.md)
+- [특강_06 Branch](https://github.com/kimsm0803/TIL/blob/5a034b376e5803ffa376fe8ff057de177abaf7ef/Github%20%ED%8A%B9%EA%B0%95/%ED%8A%B9%EA%B0%95_06.Branch.md)
 
-- [특강_07 Branch Merge](Github 특강/특강_07.Branch Merge.md)
+- [특강_07 Branch Merge](https://github.com/kimsm0803/TIL/blob/5a034b376e5803ffa376fe8ff057de177abaf7ef/Github%20%ED%8A%B9%EA%B0%95/%ED%8A%B9%EA%B0%95_07.Branch%20Merge.md)
 
-- [특강_08 Git workflow](Github 특강/특강_08.Git workflow.md)
+- [특강_08 Git workflow](https://github.com/kimsm0803/TIL/blob/5a034b376e5803ffa376fe8ff057de177abaf7ef/Github%20%ED%8A%B9%EA%B0%95/%ED%8A%B9%EA%B0%95_08.Git%20workflow.md)
 
   
   
