@@ -23,7 +23,7 @@
 
 ## Github 특강
 
-- [특강_01 MarkDown.md](https://github.com/kimsm0803/TIL/blob/e53429892e8a2dd08acf71abd821aad28fc7d602/Github%20%ED%8A%B9%EA%B0%95/%ED%8A%B9%EA%B0%95_01.MarkDown.md)
+- [특강_01 MarkDown](https://github.com/kimsm0803/TIL/blob/e53429892e8a2dd08acf71abd821aad28fc7d602/Github%20%ED%8A%B9%EA%B0%95/%ED%8A%B9%EA%B0%95_01.MarkDown.md)
 
 - [특강_02 Git기초](https://github.com/kimsm0803/TIL/blob/e53429892e8a2dd08acf71abd821aad28fc7d602/Github%20%ED%8A%B9%EA%B0%95/%ED%8A%B9%EA%B0%95_02.Git%EA%B8%B0%EC%B4%88.md)
 
