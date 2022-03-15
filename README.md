@@ -38,3 +38,23 @@
 
 - [넘파이](https://github.com/kimsm0803/TIL/blob/a92842ac6576dae61879a5665d2f832abfde6acb/%ED%8C%90%EB%8B%A4%EC%8A%A4,%20%EB%84%98%ED%8C%8C%EC%9D%B4/%EB%84%98%ED%8C%8C%EC%9D%B4.ipynb)
 - [판다스 01](https://github.com/kimsm0803/TIL/blob/a92842ac6576dae61879a5665d2f832abfde6acb/%ED%8C%90%EB%8B%A4%EC%8A%A4,%20%EB%84%98%ED%8C%8C%EC%9D%B4/%ED%8C%90%EB%8B%A4%EC%8A%A4%2001.ipynb)
+
+
+
+## 기초 수학
+
+- 기초 수학 01
+- 머신러닝, 딥러닝(인공지능)
+
+
+
+## 데이터 분석 이론
+
+- 확률 01 개념과 베이즈 정리
+
+
+
+## 알고리즘 특강
+
+- 특강 01 리스트, 딕셔너리, 스트링, For문
+- Input, Print 문제 풀이
